@@ -135,7 +135,3 @@ Marcus Webb (TX-05)        | D     | $1,204,885    | $62.15       | 19,390
 - Data quality checks built into the pipeline
 
 ---
-
-## License
-
-MIT
